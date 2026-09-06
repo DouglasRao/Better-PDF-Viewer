@@ -112,5 +112,3 @@ engine are products of **Artifex Software**, licensed under **AGPL-3.0**. If you
 use PyMuPDF — especially inside a closed-source or commercial product — review the
 AGPL-3.0 terms and Artifex's commercial licensing, as those obligations apply to
 PyMuPDF, not to this extension.
-
-*(This is a licensing notice, not legal advice.)*

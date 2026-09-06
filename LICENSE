@@ -19,22 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-## Dependências e suas licenças
-
-### PyMuPDF (MuPDF)
-- **Licença:** GNU Affero General Public License v3 (AGPL-3.0)
-- **Repositório:** https://github.com/pymupdf/PyMuPDF
-- **Nota:** Para uso em produtos comerciais fechados, uma licença comercial da
-  Artifex Software pode ser necessária. Para uso em segurança/pesquisa pessoal
-  ou ferramentas internas, a AGPL geralmente se aplica sem restrições.
-
-### Jython
-- **Licença:** Python Software Foundation License (PSF)
-- **Repositório:** https://github.com/jython/jython
-
-### Burp Suite
-- **Licença:** Proprietária (PortSwigger)
-- **Site:** https://portswigger.net/burp
