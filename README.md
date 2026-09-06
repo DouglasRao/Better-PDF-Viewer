@@ -102,7 +102,15 @@ LICENSE               ← MIT License
 
 ## License
 
-MIT — see [LICENSE](LICENSE) for details.
+This extension is licensed under the **MIT License** — see [LICENSE](LICENSE).
+The MIT license covers **only this extension's own code**.
 
-**Dependency:** PyMuPDF uses the AGPL-3.0 license (Artifex/MuPDF).  
-For closed commercial use, check the terms of Artifex Software.
+**About the PyMuPDF dependency:** this extension does **not** include, bundle, or
+redistribute PyMuPDF — it only detects a copy of PyMuPDF that *you* install
+yourself and calls it as a separate process. PyMuPDF and the underlying MuPDF
+engine are products of **Artifex Software**, licensed under **AGPL-3.0**. If you
+use PyMuPDF — especially inside a closed-source or commercial product — review the
+AGPL-3.0 terms and Artifex's commercial licensing, as those obligations apply to
+PyMuPDF, not to this extension.
+
+*(This is a licensing notice, not legal advice.)*
